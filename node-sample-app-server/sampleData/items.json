@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "author": "Jack Anderson",
+    "authorLogo": "/postOwnerPictures/author2.jpg",
+    "photo": "/photos/phone1.jpg",
+    "pictureHeading":"Phone Cover",
+    "likes": 172,
+    "description": "Trendy phone covers available in two colors.",
+    "tags": "#phone #cover #trendy",
+    "liked": true,
+    "comments": ["comment1","comment2","comment3"]
+  },
+  {
+    "id": 2,
+    "author": "Sophie Mel",
+    "authorLogo": "/postOwnerPictures/author3.jpg",
+    "photo": "/photos/pillow2.jpg",
+    "pictureHeading":"Travel Pillow",
+    "likes": 12,
+    "description": "Flamingo pillow.",
+    "tags": "#pillow #blue #trendy #flemingo",
+    "liked": false,
+    "comments": ["comment1","comment2"]
+  },
+  {
+    "id": 3,
+    "author": "Ramith Perera",
+    "authorLogo": "/postOwnerPictures/author4.jpg",
+    "photo": "/photos/pillow1.jpg",
+    "pictureHeading":"Sofa Pillow",
+    "likes": 200,
+    "description": "Decorated pillow case. Avilable in green color only",
+    "tags": "#pillow #sofapillows #modern #interiordesigning",
+    "liked": true,
+    "comments": ["comment1"]
+  },
+  {
+    "id": 4,
+    "author": "Julie Harsh",
+    "authorLogo": "/postOwnerPictures/author5.jpg",
+    "photo": "/photos/phone2.jpg",
+    "pictureHeading":"Iphone Cover",
+    "likes": 10,
+    "description": "Hard iphone covers. Shockproof and durable",
+    "tags": "#phone #cover #metal #iphone #transparent #shockproof",
+    "liked": false,
+    "comments": ["comment1","comment2","comment3"]
+  },
+  {
+    "id": 5,
+    "author": "Jill Mary",
+    "authorLogo": "/postOwnerPictures/author1.jpg",
+    "photo": "/photos/pillow3.jpg",
+    "pictureHeading":"Comfy Pillow",
+    "likes": 500,
+    "description": "Comfortable pillow ideal for sofa and bedrooms.",
+    "tags": "#pillowcase #ash #sofa #bedroom #comfy",
+    "liked": false,
+    "comments": ["comment1","comment2","comment3"]
+  }
+]
